@@ -6,4 +6,5 @@ On a cherché des informations sur la construction du cube pour connaitre le mat
 la taille du cube, et sa complexité.
 On pensait partir sur un cube 5x5x5 ou 6x6x6 mais cette taille demande beaucoup d'I/O sur la carte Arduino. On peut 
 réduire ce nombre ce nombre en utilisant des shift register pour "matricer" un étage de LED.
+
 ![Shift Register](https://i.pinimg.com/236x/af/ba/fc/afbafc49a383502bb2e3017b994b4432--electronic-engineering-electronic-circuit.jpg)

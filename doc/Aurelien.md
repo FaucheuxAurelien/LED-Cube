@@ -1,4 +1,4 @@
-# séance du 21 décembre :
+# Séance du 21 décembre :
 Mon binôme (Clément) est moi avons cherché des idées de projet Arduino sur internet.
 L'idée de faire un cube à LED nous a plu et nous avons commencé à nous renseigner sur le sujet.
 # Séance du 10 janvier :

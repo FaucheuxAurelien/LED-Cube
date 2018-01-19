@@ -11,4 +11,4 @@ réduire ce nombre ce nombre en utilisant des shift register pour "matricer" un 
 
 Cependant ce système ne permet pas de faire tous les schémas de led souhaités
 
-#Séance du 19 janvier :
+# Séance du 19 janvier :

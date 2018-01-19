@@ -10,3 +10,5 @@ réduire ce nombre ce nombre en utilisant des shift register pour "matricer" un 
 ![Shift Register](https://i.pinimg.com/236x/af/ba/fc/afbafc49a383502bb2e3017b994b4432--electronic-engineering-electronic-circuit.jpg)
 
 Cependant ce système ne permet pas de faire tous les schémas de led souhaités
+
+#Séance du 19 janvier :

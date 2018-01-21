@@ -1,4 +1,4 @@
-
+)
 # Seance du 21 décembre 
 J'ai décidé de me mettre en binome avec Aurélien Faucheux pour le projet.
 Pendant le reste de la séance j'ai cherché une idée de projet sur internet via les liens donnés par mail par M.Masson.
@@ -19,5 +19,5 @@ https://www.bing.com/images/search?view=detailV2&ccid=KWNH1N4n&id=514DF6A93A7A62
 # Séance du 17 janvier
 Nous avions un probleme avec le shift register : si on considère un plan de led et qu'on veut allumer la led tout en haut à gauche et tout en bas à droite, cela allumera aussi la led tout en haut à droite et tout en bas à gauche (les 4 coins finalement). On s'est rendu compte que ce probleme n'en etait pas un, il suffit de jouer sur la persitance rétinienne.
 Nous avons donc chercher à comprendre le fonctionnement d'un shift register en réalisant le schema suivant :
-![shift register](http://fritzing.org/media/fritzing-repo/projects/s/shift-register-74hc595/images/multiplexing-shiftregister_Steckplatine.png
+![shift register](http://fritzing.org/media/fritzing-repo/projects/s/shift-register-74hc595/images/multiplexing-shiftregister_Steckplatine.png)
 Nous avons ensuite décider qu'on realisera d'abord un cube prototype 3x3x3 et non un 5x5x5 directement, de façon à comprendre parfaitement le fonctionnement d'un calcul et ne pas faire d'erreur lors de la realisation du 5x5x5

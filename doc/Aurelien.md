@@ -12,3 +12,8 @@ réduire ce nombre ce nombre en utilisant des shift register pour "matricer" un 
 Cependant ce système ne permet pas de faire tous les schémas de led souhaités
 
 # Séance du 19 janvier :
+On a trouvé une solution pour le problème des shift register : le problème n'en était pas réellement un car on peut jouer sur 
+la persistance rétinienne pour allumer les led voulus.
+On a également décidé de créer d'abord un prototype 3x3x3 pour comprendre les fonctionnements du cube et ne pas avoir à faire des tonnes de soudure pour se rendre compte qu'on a fait une erreur.
+Pour comprendre le fonctionnement du shift register nous avons réalisé un circuit simple composé de 8 LED
+http://www.zem.fr/decouverte-du-composant-74hc595-8-bit-shift-register/

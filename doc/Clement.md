@@ -1,3 +1,4 @@
+
 )
 # Seance du 21 décembre 
 J'ai décidé de me mettre en binome avec Aurélien Faucheux pour le projet.
@@ -21,3 +22,10 @@ Nous avions un probleme avec le shift register : si on considère un plan de led
 Nous avons donc chercher à comprendre le fonctionnement d'un shift register en réalisant le schema suivant :
 ![shift register](http://fritzing.org/media/fritzing-repo/projects/s/shift-register-74hc595/images/multiplexing-shiftregister_Steckplatine.png)
 Nous avons ensuite décider qu'on realisera d'abord un cube prototype 3x3x3 et non un 5x5x5 directement, de façon à comprendre parfaitement le fonctionnement d'un calcul et ne pas faire d'erreur lors de la realisation du 5x5x5
+
+# Séance du 24 janvier
+J'ai passé une bonne partie de la séance à ecouter les présentations de mes camarades de classe. J'ai ensuite découvert l'existence de led, les APA106, qui permettent d'éviter l'utilisation de multiplexeur en étant toutes connectés entre elles et qui ont l'avantage d'être RGB et deja polies. J'ai ensuite cherché si un cube avec ces led avait deja été fait.
+
+# Séance du 06 février 
+
+# Séance du 19 février

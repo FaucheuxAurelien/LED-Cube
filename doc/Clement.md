@@ -48,4 +48,9 @@ De cette façon, toutes les leds du plan sont les unes à la suite des autres.
 Pour gérer les pattes VDD et GND, on utilise des "bus" comme ici : ![shift register](https://cdn.instructables.com/F25/HG6I/JC6K020O/F25HG6IJC6K020O.LARGE.jpg)
 Puis on relie les vdd et gnd des led au bus, ce qui donne ceci : ![shift register](https://cdn.instructables.com/FSA/WMC8/JCGK5VC1/FSAWMC8JCGK5VC1.LARGE.jpg)
 Appliqué à tout le plan : ![shift register](https://cdn.instructables.com/F50/TPCS/JCGK9WHD/F50TPCSJCGK9WHD.LARGE.jpg)
-
+On remarque que si 'lon réalise tous les étages comme celui ci dessus, lorsqu'on va vouloir relier le DOUT final d'un étage au DIN initial de l'étage supérieur, il va falloir un long fil qui va travserser la largeur du cube. Pour contrer ce probleme, les étages impairs se font d'une différente maniere que leurs collègues pairs.
+Il suffit d'inverse le sens de circulation entre etage pair et impair.
+On a alors un étage impair comme celui : ![shift register](https://cdn.instructables.com/FSW/8IJB/JCKUHGRF/FSW8IJBJCKUHGRF.LARGE.jpg?auto=webp&width=645)
+et un étage pair : ![shift register](https://cdn.instructables.com/F1V/SCFA/JCKUHGN3/F1VSCFAJCKUHGN3.LARGE.jpg?auto=webp&width=224)
+Cela permet au DOUT final d'un étage d'etre juste en dessous du DIN inital de l'etage suivant : 
+![shift register](https://cdn.instructables.com/FGC/I52G/JCKUI9BG/FGCI52GJCKUI9BG.LARGE.jpg?auto=webp&width=933)

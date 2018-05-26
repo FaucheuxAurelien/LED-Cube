@@ -27,7 +27,7 @@ Nous avons ensuite décider qu'on realisera d'abord un cube prototype 3x3x3 et n
 J'ai passé une bonne partie de la séance à ecouter les présentations de mes camarades de classe. J'ai ensuite découvert l'existence de led, les APA106, qui permettent d'éviter l'utilisation de multiplexeur en étant toutes connectés entre elles et qui ont l'avantage d'être RGB et deja polies. J'ai ensuite cherché si un cube avec ces led avait deja été fait.
 
 
-On a commandé des leds ws2812D F8 (8mm de diametre)(![shift register](https://datasheet.lcsc.com/szlcsc/WS2812D-F8_C139126.pdf) qui sont des led programmables semblables aux APA106. Elles comportent 4 pattes : VDD, GND, DIN chargé de recupérer le signal d'entrée,et enfin DOUT qui est la patte par laquelle l'information quitte la led. Ces led se branchent les unes à la suite des autres de sorte à ce qu'elles se transmettent l'information. On relie le DOUT d'une led au DIN de la led suivante et ainsi de suite. On envoie un signal sur le DIN de la premiere led et elle transmet le signal à sa voisine qui elle meme transmet à sa voisine etc...
+On a commandé des leds ws2812D F8 (8mm de diametre)(https://datasheet.lcsc.com/szlcsc/WS2812D-F8_C139126.pdf) qui sont des led programmables semblables aux APA106. Elles comportent 4 pattes : VDD, GND, DIN chargé de recupérer le signal d'entrée,et enfin DOUT qui est la patte par laquelle l'information quitte la led. Ces led se branchent les unes à la suite des autres de sorte à ce qu'elles se transmettent l'information. On relie le DOUT d'une led au DIN de la led suivante et ainsi de suite. On envoie un signal sur le DIN de la premiere led et elle transmet le signal à sa voisine qui elle meme transmet à sa voisine etc...
 
 
 

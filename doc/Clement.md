@@ -42,4 +42,10 @@ Maintenant que l'on sait faire fonctionner nos led, on cherche à savoir comment
 On finit par trouver : http://www.instructables.com/id/Cubic-Art/
 On souhaite alors s'inspirer de la façon de faire developpé sur ce site, ce qui se traduit essentiellement par le souhait de réaliser un gabarit comme celui ci : 
 ![shift register](https://cdn.instructables.com/F41/NXGY/JCAUOQL9/F41NXGYJCAUOQL9.LARGE.jpg)
+Ce gabarit permet la construction d'un étage.
+Le principe est le suivant : on met les chapeaux des 25 led dans les cylindres puis on plie les pattes DIN et DOUT comme ici : ![shift register](https://cdn.instructables.com/FMY/DROO/JCAUOPFP/FMYDROOJCAUOPFP.LARGE.jpg) 
+De cette façon, toutes les leds du plan sont les unes à la suite des autres.
+Pour gérer les pattes VDD et GND, on utilise des "bus" comme ici : ![shift register](https://cdn.instructables.com/F25/HG6I/JC6K020O/F25HG6IJC6K020O.LARGE.jpg)
+Puis on relie les vdd et gnd des led au bus, ce qui donne ceci : ![shift register](https://cdn.instructables.com/FSA/WMC8/JCGK5VC1/FSAWMC8JCGK5VC1.LARGE.jpg)
+Appliqué à tout le plan : ![shift register](https://cdn.instructables.com/F50/TPCS/JCGK9WHD/F50TPCSJCGK9WHD.LARGE.jpg)
 

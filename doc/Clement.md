@@ -58,4 +58,16 @@ Cela permet au DOUT final d'un étage d'etre juste en dessous du DIN inital de l
 
 
 Mais les choses ne sont pas passés comme prévu,l'imprimante 3D du FabLab a totalement raté l'impression :
+sur le logiciel : 
 <img src="https://user-images.githubusercontent.com/35264662/40738802-cbb2ade6-6444-11e8-816e-c1128990ea4d.jpeg" alt=surLogiciel />
+en réalité : 
+<img src=https://user-images.githubusercontent.com/35264662/40738803-cc3d6a9e-6444-11e8-9c6e-b767ad13291b.jpeg />
+
+Nous avons donc changé de methode. Nous avons pris une planche de bois dans laquelle nous avons fait des trous destiné à acceuillir les chapeaux des leds afin de construire une etage facilement, en suivant les meme schemas pour les bus VDD et GND.
+<img src="https://user-images.githubusercontent.com/35264662/40739299-1c8844be-6446-11e8-97aa-58637874a088.jpg" />
+
+Nous avons construit 5 étages à l'aide de cette planche de bois. Ensuite, nous avons testé chaque plans un par un pour verifier le bon fonctionnement de l'étage.
+<img src="https://user-images.githubusercontent.com/35264662/40739302-1cf1f990-6446-11e8-9281-1833d4ba228f.jpg" />
+Sur 5 étages, 3 ont parfaitement fonctionné , l'allumage se faisait correctemnt. Mais sur les 2 autrs étages, l'allumage est aleatoire, les 3-4premieres leds s'allument comme il faut mais les autres leds sont "bugé". La transmission de l'information entre les leds se fait tres mal. Selon nous le probleme vient de la basse qualité de l'étain utilisé pour les soudures ainsi que des tiges de fer utilisées pour les bus VDD et GND qui sont quelque peu inadaptés à la soudure. En effet, l'étain fondu glisse sur les bus comme des gouttes d'eau sur un k-way.Nous détaillerons davantage dans le rapport.
+Nous avons ensuite assemblé les 3 étages fonctionnels, 
+

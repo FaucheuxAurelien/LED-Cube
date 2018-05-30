@@ -57,4 +57,5 @@ Cela permet au DOUT final d'un étage d'etre juste en dessous du DIN inital de l
 ![shift register](https://cdn.instructables.com/FGC/I52G/JCKUI9BG/FGCI52GJCKUI9BG.LARGE.jpg?auto=webp&width=933)
 
 
-Mais les choses ne sont pas passés comme prévu,l'imprimante 3D du FabLab a totalement raté l'impression
+Mais les choses ne sont pas passés comme prévu,l'imprimante 3D du FabLab a totalement raté l'impression :
+<a src="https://user-images.githubusercontent.com/35264662/40738802-cbb2ade6-6444-11e8-816e-c1128990ea4d.jpeg" alt= />

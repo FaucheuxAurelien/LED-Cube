@@ -55,3 +55,6 @@ On a alors un étage impair comme celui : ![shift register](https://cdn.instruct
 et un étage pair : ![shift register](https://cdn.instructables.com/F1V/SCFA/JCKUHGN3/F1VSCFAJCKUHGN3.LARGE.jpg)
 Cela permet au DOUT final d'un étage d'etre juste en dessous du DIN inital de l'etage suivant : 
 ![shift register](https://cdn.instructables.com/FGC/I52G/JCKUI9BG/FGCI52GJCKUI9BG.LARGE.jpg?auto=webp&width=933)
+
+
+Mais les choses ne sont pas passés comme prévu,l'imprimante 3D du FabLab a totalement raté l'impression

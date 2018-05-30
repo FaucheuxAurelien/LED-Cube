@@ -29,4 +29,7 @@ Construction du cube :
   - une consistant à créer 25 colonnes de 5 leds chacune. Chaque colonne est consititué de deux tiges, une étant relié à Vdd et l'autre à GND. J'avais envisagé de faire fonctionner les 5 plans independament et ainsi avoir 5 résistances avec 5 Din, chaque led d'un plan étant rélié à la suivante sur la colonne voisine à la même hauteur. Les distances sont regles grace à la création d'un gabarit, constistué de 25 trous equidistant. **Problemes** : précision du cube ( plan droit , led espacé autant en longueur qu'en hauteur) soudure, et les toutes les led sauf celles du derniere étage auraient des toges sur les bords nuisant à la diffusion.
   - construction de chaque  plan selon une méthode plus simple trouvé sur internet (plan pair et impair)
   
-Création d'un gabarit à la decoupeuse laser .
+Création d'un gabarit à la decoupeuse laser après l'échec de l'imprimante 3D.
+Fabrication des 5 plans avec le gabarit pour un total d'à peu près 300 soudures.
+Test des plans de led : 3 fonctionnent bien tandis que les 2 autres s'allument un peu aléatoirement. on refait donc quelques soudures et quelques remplacements de led. Le résultat reste inchangé...
+Empilement des 5 étages : les 2 premiers plans en partant du bas fonctionnent bien ensemble malgré quelques beug (selon l'endroit on l'applique vdd cela marche plus ou moins bien)

@@ -33,6 +33,6 @@ Création d'un gabarit à la decoupeuse laser après l'échec de l'imprimante 3D
 Fabrication des 5 plans avec le gabarit pour un total d'à peu près 300 soudures.
 Test des plans de led : 3 fonctionnent bien tandis que les 2 autres s'allument un peu aléatoirement. on refait donc quelques soudures et quelques remplacements de led. Le résultat reste inchangé...
 Empilement des 5 étages : les 2 premiers plans en partant du bas fonctionnent bien ensemble malgré quelques beug (selon l'endroit on l'applique vdd cela marche plus ou moins bien)
-![Shift Register]()
+![Shift Register](https://user-images.githubusercontent.com/34739496/40751241-a519441c-646a-11e8-8d84-a3d2046e0e27.jpg)
 Création de nouveau pattern impossible tant que le cube n'est pas **stable** et **fonctionnel**.
 Absence de connectivit bluetooth.

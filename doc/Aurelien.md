@@ -21,3 +21,11 @@ http://www.zem.fr/decouverte-du-composant-74hc595-8-bit-shift-register/
 Changement de plan :
 On va utiliser des led programmables RBG, les WS812D-F8. Ces led ont l'avantage d'avoir une résitance intégrée, et se transmettent l'information d'une led à la suivante. Ces led ont 4 pattes : Dout, Vdd, gnd, Din. On donne l'information à la 1ere led par la patte Din qui sortira par Dout qui est relié au Din de la led suivante.
 Pour pragrammer ces led on utilise une la librairie Arduino **Adafruit neo-pixel** 
+![Shift Register](~/Images/capture1.png)
+
+Construction du cube : 
+2 méthodes : 
+  - une consistant à créer 25 colonnes de 5 leds chacune. Chaque colonne est consititué de deux tiges, une étant relié à Vdd et l'autre à GND. J'avais envisagé de faire fonctionner les 5 plans independament et ainsi avoir 5 résistances avec 5 Din, chaque led d'un plan étant rélié à la suivante sur la colonne voisine à la même hauteur. Les distances sont regles grace à la création d'un gabarit, constistué de 25 trous equidistant. **Problemes** : précision du cube ( plan droit , led espacé autant en longueur qu'en hauteur) soudure, et les toutes les led sauf celles du derniere étage auraient des toges sur les bords nuisant à la diffusion.
+  - construction de chaque  plan selon une méthode plus simple trouvé sur internet (plan pair et impair)
+  
+Création d'un gabarit à la decoupeuse laser .

@@ -69,5 +69,5 @@ Nous avons donc changé de methode. Nous avons pris une planche de bois dans laq
 Nous avons construit 5 étages à l'aide de cette planche de bois. Ensuite, nous avons testé chaque plans un par un pour verifier le bon fonctionnement de l'étage.
 <img src="https://user-images.githubusercontent.com/35264662/40739302-1cf1f990-6446-11e8-9281-1833d4ba228f.jpg" />
 Sur 5 étages, 3 ont parfaitement fonctionné , l'allumage se faisait correctemnt. Mais sur les 2 autrs étages, l'allumage est aleatoire, les 3-4premieres leds s'allument comme il faut mais les autres leds sont "bugé". La transmission de l'information entre les leds se fait tres mal. Selon nous le probleme vient de la basse qualité de l'étain utilisé pour les soudures ainsi que des tiges de fer utilisées pour les bus VDD et GND qui sont quelque peu inadaptés à la soudure. En effet, l'étain fondu glisse sur les bus comme des gouttes d'eau sur un k-way.Nous détaillerons davantage dans le rapport.
-Nous avons ensuite assemblé les 3 étages fonctionnels, 
+Nous avons ensuite assemblé les 3 étages fonctionnels, ils fonctionnent mais pas "aussi bien" que lorsqu'ils etaient separé, ils bug un peu de la meme maniere que les etages infonctionnels, on a malgré tout reussi à avoir les étages allumés en meme tmeps. 
 

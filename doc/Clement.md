@@ -39,8 +39,7 @@ Ces led ne fonctionnent donc pas comme celles qu'on a pu utiliser en td, elles r
 
 Maintenant que l'on sait faire fonctionner nos led, on cherche à savoir comment construire notre cube, comment relier toutes les led d'un etage entre elles tout en gérant de facon efficace leurs pattes vdd et gnd. Les led ayant 4 pattes chacunes, on ne peut se permettre la présence de 4 fils par led soit 100fils juste pour un étage...Comment réduire un maxmimum le nombre de fils utilisés? On trouve très peu de page detaillé sur la réalisation d'un cube utilisant nos led, ce qui rend l'avancé du projet difficile.
 
-
-On finit par trouver : http://www.instructables.com/id/Cubic-Art/
+Nous avions pensé à plusieurs methodes de construction mais nous avons finit pas adopter celle qui est utilisé sur ce site : http://www.instructables.com/id/Cubic-Art/
 On souhaite alors s'inspirer de la façon de faire developpé sur ce site, ce qui se traduit essentiellement par le souhait de réaliser un gabarit comme celui ci : 
 ![shift register](https://cdn.instructables.com/F41/NXGY/JCAUOQL9/F41NXGYJCAUOQL9.LARGE.jpg)
 Ce gabarit permet la construction d'un étage.
